@@ -1,0 +1,3 @@
+- 👋 Yo, my name is Sami Tarraf.
+- 👀 I’m interested in gaming, hardware and a little bit of programming.
+- 🌱 I’m currently hardware courses.
